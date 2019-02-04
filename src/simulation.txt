@@ -1,0 +1,106 @@
+Tower says: Ballon#B1(1) registered to weather tower.
+Tower says: Ballon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Ballon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Ballon#B1(1): I am freezing... Better I will be in a Helicopter.
+Ballon#B1(1) landing.
+Tower says: Ballon#B1(1) unregister from weather tower.
+Ballon#B1(1) current coordinates: Latitude 3, Longitude 2, Height 0.
+Ballon#B2(2): Oh no, rain! I can swim in a ballon basket...
+JetPlane#J1(3): SNOW! SNOW! SNOW!
+Helicopter#H1(4): White flies flew in...
+Helicopter#H2(5): White flies flew in...
+Helicopter#H3(6): The weather is sunny!
+Ballon#B3(7): I am freezing... Better I will be in a Helicopter.
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Helicopter#H4(9): White flies flew in...
+Ballon#B2(2): Oh no, rain! I can swim in a ballon basket...
+JetPlane#J1(3): SNOW! SNOW! SNOW!
+Helicopter#H1(4): White flies flew in...
+Helicopter#H1(4) landing.
+Tower says: Helicopter#H1(4) unregister from weather tower.
+Helicopter#H1(4) current coordinates: Latitude 33, Longitude 654, Height 0.
+Helicopter#H2(5): White flies flew in...
+Helicopter#H3(6): The weather is sunny!
+Ballon#B3(7): I am freezing... Better I will be in a Helicopter.
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Helicopter#H4(9): White flies flew in...
+Ballon#B2(2): Oh no, rain! I can swim in a ballon basket...
+JetPlane#J1(3): SNOW! SNOW! SNOW!
+Helicopter#H2(5): White flies flew in...
+Helicopter#H3(6): The weather is sunny!
+Ballon#B3(7): I am freezing... Better I will be in a Helicopter.
+Ballon#B3(7) landing.
+Tower says: Ballon#B3(7) unregister from weather tower.
+Ballon#B3(7) current coordinates: Latitude 22, Longitude 102, Height 0.
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Helicopter#H4(9): White flies flew in...
+Ballon#B2(2): Oh no, rain! I can swim in a ballon basket...
+JetPlane#J1(3): SNOW! SNOW! SNOW!
+Helicopter#H2(5): White flies flew in...
+Helicopter#H2(5) landing.
+Tower says: Helicopter#H2(5) unregister from weather tower.
+Helicopter#H2(5) current coordinates: Latitude 33, Longitude 22, Height 0.
+Helicopter#H3(6): The weather is sunny!
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Helicopter#H4(9): White flies flew in...
+Ballon#B2(2): Oh no, rain! I can swim in a ballon basket...
+JetPlane#J1(3): SNOW! SNOW! SNOW!
+JetPlane#J1(3) landing.
+Tower says: JetPlane#J1(3) unregister from weather tower.
+JetPlane#J1(3) current coordinates: Latitude 44, Longitude 23, Height 0.
+Helicopter#H3(6): The weather is sunny!
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Helicopter#H4(9): White flies flew in...
+Helicopter#H4(9) landing.
+Tower says: Helicopter#H4(9) unregister from weather tower.
+Helicopter#H4(9) current coordinates: Latitude 23, Longitude 223, Height 0.
+Ballon#B2(2): Oh no, rain! I can swim in a ballon basket...
+Helicopter#H3(6): The weather is sunny!
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Ballon#B2(2): Oh no, rain! I can swim in a ballon basket...
+Helicopter#H3(6): The weather is sunny!
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Ballon#B2(2): Oh no, rain! I can swim in a ballon basket...
+Helicopter#H3(6): The weather is sunny!
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Ballon#B2(2): Oh no, rain! I can swim in a ballon basket...
+Helicopter#H3(6): The weather is sunny!
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Ballon#B2(2): Oh no, rain! I can swim in a ballon basket...
+Helicopter#H3(6): The weather is sunny!
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Ballon#B2(2): Oh no, rain! I can swim in a ballon basket...
+Helicopter#H3(6): The weather is sunny!
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Ballon#B2(2): Oh no, rain! I can swim in a ballon basket...
+Helicopter#H3(6): The weather is sunny!
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Ballon#B2(2): I am freezing... Better I will be in a Helicopter.
+Ballon#B2(2) landing.
+Tower says: Ballon#B2(2) unregister from weather tower.
+Ballon#B2(2) current coordinates: Latitude 8, Longitude 1, Height 0.
+Helicopter#H3(6): The weather is sunny!
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Helicopter#H3(6): The weather is sunny!
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+Helicopter#H3(6): The weather is sunny!
+JetPlane#J2(8): SNOW! SNOW! SNOW!
+JetPlane#J2(8) landing.
+Tower says: JetPlane#J2(8) unregister from weather tower.
+JetPlane#J2(8) current coordinates: Latitude 99, Longitude 11, Height 0.
+Helicopter#H3(6): The weather is sunny!
+Helicopter#H3(6): The weather is sunny!
+Helicopter#H3(6): The weather is sunny!
+Helicopter#H3(6): The weather is sunny!
+Helicopter#H3(6): The weather is sunny!
+Helicopter#H3(6): The weather is sunny!
+Helicopter#H3(6): The weather is sunny!
+Helicopter#H3(6): The weather is sunny!
+Helicopter#H3(6): The weather is sunny!
+Helicopter#H3(6): The weather is sunny!
